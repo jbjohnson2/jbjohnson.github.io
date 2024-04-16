@@ -7,9 +7,11 @@ displays them as a website. No build process is necessary.
 
 
 ## Benefits
-- Open source
-- Many plug-ins available
+- Free and open source
+- Lightweight
+- Customizable: Many plug-ins available
 - Easy to use and maintain
+
 
 ## Drawbacks
 
