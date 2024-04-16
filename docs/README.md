@@ -17,6 +17,12 @@ displays them as a website. No build process is necessary.
 * [Slides](Slides.md)
 ## Third Header
 
+## Use Cases
+*  Class website
+*  Internal Documentation
+*  Open source projects
+*  Documenting Projects
+
 1. intro page 
 2. copy to clipboard plug in
 3. multi language support
