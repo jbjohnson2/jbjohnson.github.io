@@ -17,7 +17,7 @@ displays them as a website. No build process is necessary.
 ## Drawbacks
 
 ## Slide Plug-in 
-* [Slides](Slides.md)
+* [Slides](docs/Slides.md)
 ## Third Header
 
 ## Use Cases
@@ -55,4 +55,4 @@ D. class webpage
 - info on different technologies used in different projects
 - interview processes/question s
 
-## [Class Webpage Demo](classWebsiteExample/README.md)
+## [Class Webpage Demo](docs/classWebsiteExample/README.md)
