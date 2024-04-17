@@ -9,5 +9,7 @@
     <orderEntry type="library" name="docsify" level="application" />
     <orderEntry type="library" name="search" level="application" />
     <orderEntry type="library" name="docsify-pagination" level="application" />
+    <orderEntry type="library" name="docsify-copy-code" level="application" />
+    <orderEntry type="library" name="vue" level="application" />
   </component>
 </module>
