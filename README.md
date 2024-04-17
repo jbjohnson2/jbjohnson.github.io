@@ -16,7 +16,7 @@ displays them as a website. No build process is necessary.
 ## Drawbacks
 
 ## Slide Plug-in 
-* [Slides](Slides.md)
+* [Slides](docs/Slides.md)
 ## Third Header
 
 ## Use Cases
