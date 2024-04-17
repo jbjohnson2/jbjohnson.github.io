@@ -3,11 +3,12 @@
 
 > What is docsify
 
-<!-- slide:break- 100 -->
+<!-- slide:break-100 -->
 
 # Features
 
 - Customizable
+ ## Ignored Header <!-- {docsify-ignore} -->
 - Easy to use
 - 
 
@@ -20,6 +21,8 @@
 - 
 
 <!-- slide:break-100 -->
+
+
 # Applications/Use Cases
 
 - class web page
