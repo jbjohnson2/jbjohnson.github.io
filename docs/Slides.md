@@ -1,10 +1,29 @@
 # Docsify
 
 
-> First Slide
+> What is docsify
 
-<!-- slide:break -->
+<!-- slide:break- 100 -->
 
-# Ease of Use
+# Features
 
-<!-- slide:break -->
+- Customizable
+- Easy to use
+- 
+
+<!-- slide:break-100 -->
+
+# Advantages
+-  dont need a programmer to update files
+- quick to learn 
+- customizable
+- 
+
+<!-- slide:break-100 -->
+# Applications/Use Cases
+
+- class web page
+- project documentation
+- onboarding documentation
+
+<!-- slide:break-100 -->
