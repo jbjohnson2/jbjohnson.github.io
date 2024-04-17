@@ -12,6 +12,7 @@ displays them as a website. No build process is necessary. Created in 2016.
 - No statically build html files
 - Operates across various platforms (Windows/Max/Github Pages)
 - Customizable
+- 
     - [themes](https://docsify.js.org/#/themes)
       
     - [plugins](https://docsify.js.org/#/awesome?id=plugins)
@@ -25,7 +26,7 @@ displays them as a website. No build process is necessary. Created in 2016.
     - [community resources](https://docsify.js.org/#/awesome?id=community-resources)
         - [template for a course website](https://hibbitts-design.github.io/docsify-open-course-starter-kit/#/)
 
-    
+    - link to github
 
 ## Benefits
 - Free and open source

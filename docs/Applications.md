@@ -5,11 +5,11 @@
 2. Product Documentations 
  * brochures
  * installation guides
-3. Training Documentations  
-   * employee trining mainiual
+3. Training Documentation  
+   * employee training manual
    * customer training manuals
 4. Onboarding processes
 5. Course website
-6. Project documentaion
+6. Project documentation
    * easy to update markdown file
    * easy to review changes to markdown files
