@@ -3,7 +3,7 @@
 
 > What is docsify
 
-<!-- slide:break-100 -->
+<!-- slide:break- 100 -->
 
 # Features
 
@@ -12,7 +12,7 @@
 - Easy to use
 - 
 
-<!-- slide:break-100 -->
+<!-- slide:break- 100 -->
 
 # Advantages
 -  dont need a programmer to update files
@@ -20,7 +20,7 @@
 - customizable
 - 
 
-<!-- slide:break-100 -->
+<!-- slide:break- 100 -->
 
 
 # Applications/Use Cases
@@ -29,4 +29,4 @@
 - project documentation
 - onboarding documentation
 
-<!-- slide:break-100 -->
+<!-- slide:break- 100 -->
