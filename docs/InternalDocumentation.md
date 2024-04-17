@@ -1,0 +1,15 @@
+# Internal Documentation
+- new hire checklist
+- Laptop set up
+- git branching procedures
+- list of tools and how to use them
+- coding conventions
+- code examples
+- database information
+- change logs
+- weekly/quarterly meeting template
+- information on technologies that could be linked to in multiple projects
+- interview processes
+- interview questions
+- easily link to other page
+- can be searchable
