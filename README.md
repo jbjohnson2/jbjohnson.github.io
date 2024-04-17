@@ -1,7 +1,7 @@
 # Docsify
 
-# Getting  Started
-    * [Docsify Quick Start Guide](https://docsify.js.org/#/quickstart)
+## Getting  Started
+- [Docsify Quick Start Guide](https://docsify.js.org/#/quickstart)
 > 
 Docsify is an documentation site generator without static HTML files. Docsify loads and parses markdown files and 
 displays them as a website. No build process is necessary.

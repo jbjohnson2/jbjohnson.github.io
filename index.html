@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Docsify Prof Dev Presentation </title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -15,7 +15,13 @@
     window.$docsify = {
       name: 'Docsify Demo',
       repo: 'https://github.com/jbjohnson2/jbjohnson.github.io',
-      loadSidebar: false
+      loadSidebar: true
+      //copy code
+      copyCode: {
+        buttonText: 'Copy to clipboard',
+        errorText: 'Error',
+        successText: 'Copied',
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -26,6 +32,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!--  pagination-->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- Copy code -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+
 
 </body>
 </html>
