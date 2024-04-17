@@ -55,7 +55,7 @@ D. class webpage
 - info on different technologies used in different projects
 - interview processes/question s
  
-> [Class Webpage Demo](docs/classWebsiteExample/README.md)
+> [Class Webpage Demo](docs/classWebsiteExample/index.html)
 
 
 ### mover info
