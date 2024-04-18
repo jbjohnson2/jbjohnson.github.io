@@ -11,5 +11,6 @@
     <orderEntry type="library" name="docsify-pagination" level="application" />
     <orderEntry type="library" name="docsify-copy-code" level="application" />
     <orderEntry type="library" name="vue" level="application" />
+    <orderEntry type="library" name="index" level="application" />
   </component>
 </module>

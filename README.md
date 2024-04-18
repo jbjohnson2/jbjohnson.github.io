@@ -20,6 +20,7 @@ displays them as a website. No build process is necessary. Created in 2016.
       - copy to clipboard
       - navbar
       - pagination
+      - VSCode preview
 
     - [examples](https://docsify.js.org/#/awesome?id=showcase)
   
@@ -37,7 +38,7 @@ displays them as a website. No build process is necessary. Created in 2016.
 
 ## Use Cases
 *  Documenting a project
-*  [Internal Documentation](InternalDocumentation.md)
+*  [Internal Documentation](docs/InternalDocumentation.md)
 * Open Source projects
   * Easy to write and review changes to markdown files
 * Course Website
