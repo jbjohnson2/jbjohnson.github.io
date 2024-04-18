@@ -46,5 +46,5 @@ displays them as a website. No build process is necessary. Created in 2016.
 * Training documentation
 
 
-> [Class Webpage Demo](https://github.com/jbjohnson2/docsifyDemo)
+> [Class Webpage Demo](https://jbjohnson2.github.io/docsifyDemo/#/)
 
