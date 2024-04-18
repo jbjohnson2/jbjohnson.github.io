@@ -9,7 +9,7 @@ displays them as a website. No build process is necessary.
 - [Docsify Quick Start Guide](https://docsify.js.org/#/quickstart)
 
 ## Features
-- No statically build html files
+- No statically built html files
 - Operates across various platforms (Windows/Max/Github Pages)
 - Customizable
 - 
