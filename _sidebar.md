@@ -1,4 +1,4 @@
 * [Home](/)
-* [Applications](../docs/Applications.md)
+* [Applications](Applications.md)
 * [InternalDocumentation](InternalDocumentation.md)
 * [Sources](sources.md) 
