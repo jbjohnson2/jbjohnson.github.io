@@ -12,14 +12,16 @@ displays them as a website. No build process is necessary.
 - No statically built html files
 - Operates across various platforms (Windows/Mac/Github Pages)
 - Customizable
-- 
+
     - [themes](https://docsify.js.org/#/themes)
       
-    - [plugins](https://docsify.js.org/#/awesome?id=plugins)
+    - [plugins/customizations](https://docsify.js.org/#/awesome?id=plugins)
+      - ignore headers in menu 
+      - link to github
       - Search
-      - copy to clipboard
       - sidebar
       - pagination
+      - copy to clipboard
       - VSCode preview
 
     - [examples](https://docsify.js.org/#/awesome?id=showcase)
@@ -27,8 +29,10 @@ displays them as a website. No build process is necessary.
     - [community resources](https://docsify.js.org/#/awesome?id=community-resources)
         - [Course Website Template](https://hibbitts-design.github.io/docsify-open-course-starter-kit/#/)
         - [Multi-languge Site Template](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multilanguage-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&name=Multi-language%20Site#/README)
-    - link to github
 
+> [Class Webpage Demo](https://jbjohnson2.github.io/docsifyDemo/#/)
+
+    
 ## Benefits
 - Free and open source
 - Simple
