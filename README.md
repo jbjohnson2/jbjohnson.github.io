@@ -38,7 +38,7 @@ displays them as a website. No build process is necessary. Created in 2016.
 
 ## Use Cases
 *  Documenting a project
-*  [Internal Documentation](docs/InternalDocumentation.md)
+*  [Internal Documentation](InternalDocumentation.md)
 * Open Source projects
   * Easy to write and review changes to markdown files
 * Course Website
