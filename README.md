@@ -1,7 +1,7 @@
 # Docsify
 
 Docsify is an documentation site generator without static html files. Docsify loads and parses markdown files and 
-displays them as a website. No build process is necessary. Created in 2016.
+displays them as a website. No build process is necessary.
 
 
 
