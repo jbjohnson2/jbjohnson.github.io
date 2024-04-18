@@ -10,7 +10,7 @@ displays them as a website. No build process is necessary.
 
 ## Features
 - No statically built html files
-- Operates across various platforms (Windows/Max/Github Pages)
+- Operates across various platforms (Windows/Mac/Github Pages)
 - Customizable
 - 
     - [themes](https://docsify.js.org/#/themes)
@@ -18,7 +18,7 @@ displays them as a website. No build process is necessary.
     - [plugins](https://docsify.js.org/#/awesome?id=plugins)
       - Search
       - copy to clipboard
-      - navbar
+      - sidebar
       - pagination
       - VSCode preview
 
